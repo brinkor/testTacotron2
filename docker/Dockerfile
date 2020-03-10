@@ -11,4 +11,5 @@ RUN git clone https://github.com/brinkor/testTacotron2.git
 
 WORKDIR testTacotron2
 RUN ln -s ../LJSpeech-1.1 .
+RUN pip install tensorflow==1.13.1
 RUN pip install -r requirements.txt
