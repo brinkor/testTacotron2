@@ -1,4 +1,7 @@
 some master
-text
+new text that should
+stay
+!!!
+it is tested feature
 aaa
 bbb
