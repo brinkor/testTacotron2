@@ -1,6 +1,9 @@
 some master
 but i don't wont it in the master yet
-text
+new text that should
+stay
+!!!
+it is tested feature
 aaa
 bbb
 some changes
